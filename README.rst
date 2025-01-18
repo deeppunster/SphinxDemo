@@ -36,7 +36,7 @@ Welcome to the Sphinx Documentation Tool open source project!
 
 This project is designed to help you get started using Sphinx as a documentation tool for your project.
 
-In addition to the example code given in this project, there is a step-by-step `presentation <"phinx Presentation.pptx>`_ available. See the `installation  <Install>`_ section for details.
+In addition to the example code given in this project, there is a step-by-step `presentation <Sphinx Presentation.pptx>`_ available. See the `installation  <Installation>`_ section for details.
 
 Features
 ========
@@ -71,7 +71,7 @@ Sphinx has numerous themes available. Examples of each of the major themes can b
 Installation
 ============
 
-There is a step-by-step `presentation <"phinx Presentation.pptx>`_ available which walks through how to add full Sphinx support to your project.
+There is a step-by-step `presentation <Sphinx Presentation.pptx>`_ available which walks through how to add full Sphinx support to your project.
 
 If you want to make this project a fully functioning example, follow these steps:
 
@@ -95,7 +95,7 @@ If you want to make this project a fully functioning example, follow these steps
 Code of Conduct
 ===============
 
-Contributor code of conduct for this project is given in `Code of Conduct <Code_of_conduct.md>`_.
+Contributor code of conduct for this project is given in `Code of Conduct <Code_of_Conduct.md>`_.
 
 Contributors
 ============
@@ -107,4 +107,4 @@ Pull requests with improvements are welcome.
 License
 =======
 
-``Sphinx Documentation Tool``  is distributed under the terms of the `MIT <https://spdx.org/licenses/MIT.html>`_ license.
+``Sphinx Documentation Tool``  is distributed under the terms of the `MIT <https://mit-license.org/>`_ license.
