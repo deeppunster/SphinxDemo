@@ -1,0 +1,7 @@
+### Travis Custom .gitignore
+.idea/
+.venv/
+docs/build/
+docs/source/generated/
+work
+**/__pycache__/**
